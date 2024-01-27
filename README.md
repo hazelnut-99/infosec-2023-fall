@@ -10,6 +10,6 @@ topic & skills:
 
 ### Module 03: Software Security and Trusted Execution Environments
 topics & skills: 
-  - binary exploitation (buffer overflow, format-string vulnerabilities); 
-  - side-channel attacks; 
-  - x86-assembly 
+  - Binary exploitation (buffer overflow, format-string vulnerabilities); 
+  - Side-channel attacks; 
+  - X86-assembly 
